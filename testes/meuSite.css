@@ -1,0 +1,45 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    background-color:darksalmon;
+    text-align:center;
+    padding:150px;
+    margin:-1%;
+    color:gray;
+    font-size:50px;
+}
+#frase{
+
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color:white;
+    font-size:16px;
+    font-family:arial;
+    border-radius:40px;
+    background-color:black;
+    padding:20px;
+    margin:100px;
+
+   
+
+}
+
+#resposta{
+
+    background-color:darkgray;
+    border-radius:40px;
+    display:flex;
+    align-items:center;
+    justify-content:left;
+    padding:40px;
+    margin:200px;
+    font-family: arial;
+    font-size:17px;
+    
+   
+
+   
+
+}
